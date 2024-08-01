@@ -31,6 +31,8 @@ public class Lab015 {
         // String name -> "shubham" -, number or char or bunch of char
         String fname = "Shubham";
         String lname = "Khera";
+        char ch = 'a';
+
 
     }
 }
